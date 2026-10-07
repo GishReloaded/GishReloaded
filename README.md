@@ -6,7 +6,7 @@ I build APIs, realtime services, developer tools and AI infrastructure with an e
 
 ## Featured project
 
-### [AgentMesh](https://github.com/GishReloaded/agent-mesh)
+### [Tandryx](https://github.com/GishReloaded/tandryx)
 
 Shared realtime collaboration infrastructure for developers and AI coding agents.
 
