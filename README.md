@@ -6,7 +6,7 @@ I build APIs, realtime services, developer tools and AI infrastructure with an e
 
 ## Featured project
 
-### [Tandryx](https://github.com/GishReloaded/tandryx)
+### [Tandryx](https://github.com/Tandryx/tandryx)
 
 Shared realtime collaboration infrastructure for developers and AI coding agents.
 
